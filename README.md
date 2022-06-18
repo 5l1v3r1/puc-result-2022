@@ -1,2 +1,2 @@
 # puc-result-2022
-2 puc result 2022 (karnataka board)
+2 puc result 2022 (DEPARTMENT OF PRE-UNIVERSITY EDUCATION, KARNATAKA)
