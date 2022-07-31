@@ -12,3 +12,7 @@ dropdown.select_by_value("S")  #for arts select "A" for commerce select "C"
 
 button=driver.find_element_by_xpath('/html/body/div[2]/div[2]/div[1]/form/button').click()
 
+time.sleep(10)
+
+driver.close()
+
